@@ -7,7 +7,7 @@ Instructions:
 
 2) Create a branch on your fork called *simple-test*
 
-3) On that branch, add your name and email address to the file userinfo.txt
+3) On that branch, add your name and email address to the file *userinfo.txt*
 
 4) Commit your changes
 
